@@ -7,11 +7,11 @@ body {
 	background-color: hsl(185, 75%, 39%);
 	font-family: "Kumbh Sans", sans-serif;
 }
-div{
+div {
 	font-size: 18px;
 }
 .card {
-	margin:auto;
+	margin: auto;
 	margin-top: 100px;
 	color: white;
 	background: url(images/bg-pattern-card.svg) no-repeat currentColor;
@@ -60,25 +60,26 @@ div{
 	height: 0.1px;
 	margin-top: 20px;
 }
-.flp-scores{
+.flp-scores {
 	width: 100%;
-	margin-top:20px;
-	display:flex;
+	margin-top: 20px;
+	display: flex;
 	justify-content: space-around;
 }
-.followers,.likes,.photos{
-	display:flex;
+.followers,
+.likes,
+.photos {
+	display: flex;
 	flex-direction: column;
 	align-items: center;
 	color: black;
 	font-size: 9px;
-	
 }
-.number{
+.number {
 	color: black;
 	font-weight: bold;
-	font-size:20px;
+	font-size: 20px;
 }
-.unit{
+.unit {
 	font-size: 13px;
 }
