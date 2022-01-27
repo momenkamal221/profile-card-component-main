@@ -15,7 +15,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 - Solution URL: [solution URL](https://github.com/momenkamal221/nft-preview-card-component-main.git)
-- Live Site URL: [live site URL](https://momenkamal221.github.io/nft-preview-card-component-main/)
+- Live Site URL: [live site URL](https://momenkamal221.github.io/profile-card-component-main/)
 
 ## Built with
 - CSS custom properties
