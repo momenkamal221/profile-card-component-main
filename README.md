@@ -11,8 +11,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Overview
 - I stopped using IDs a lot for reusability purposes.
-- It is a litle bit similar
-
 ## Links
 - Solution URL: [solution URL](https://github.com/momenkamal221/profile-card-component-main)
 - Live Site URL: [live site URL](https://momenkamal221.github.io/profile-card-component-main/)
@@ -21,5 +19,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 ## What I learned
-- dealing with backgrounds
+- dealing with backgrounds.
+- apply using calc min and max functions.
 
