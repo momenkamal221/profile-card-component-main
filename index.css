@@ -1,14 +1,12 @@
 body {
 	background: url(images/bg-pattern-top.svg) no-repeat,
 		url(images/bg-pattern-bottom.svg) no-repeat;
-	background-position: 
-	top -500px left calc(-150px - max(0px, min(550px, -100%))),
-	bottom -500px right calc(-150px - max(0px, min(550px, -100%)));
+		background-position: top -500px left calc(-100px - max(0px, calc(-45% + 411px))),
+		bottom -500px right calc(-100px - max(0px, calc(-45% + 411px)));
 	background-attachment: fixed;
 	background-color: hsl(185, 75%, 39%);
 	font-family: "Kumbh Sans", sans-serif;
 }
-
 div{
 	font-size: 18px;
 }
