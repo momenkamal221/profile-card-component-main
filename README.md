@@ -1,4 +1,4 @@
-![COMPLETED](completed.png)
+![COMPLETED](https://ibb.co/bsnmjc9)
 # Frontend Mentor - Profile card component solution
 
 ## Table of contents
