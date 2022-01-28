@@ -1,3 +1,4 @@
+![COMPLETED](completed.png)
 # Frontend Mentor - Profile card component solution
 
 ## Table of contents
@@ -9,7 +10,7 @@
 - [Resources](#Resources)
 
 ## Overview
-- This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor 
+- This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 ## Links
 - Solution URL: [solution URL](https://github.com/momenkamal221/profile-card-component-main)
 - Live Site URL: [live site URL](https://momenkamal221.github.io/profile-card-component-main/)
