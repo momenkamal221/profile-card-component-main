@@ -1,5 +1,6 @@
 # Frontend Mentor - Profile card component solution
 <p align="right" >
+  <p>Frontend Mentor - Profile card component solution</p>
   <img width="200" src="https://dc769.4shared.com/img/OOtY0LFNea/s24/17ea1eadd98/completed?async&rand=0.8057728848021251">
 </p>
 
