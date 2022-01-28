@@ -1,5 +1,8 @@
 ![COMPLETED](https://dc769.4shared.com/img/OOtY0LFNea/s24/17ea1eadd98/completed?async&rand=0.8057728848021251)
 # Frontend Mentor - Profile card component solution
+<p align="center">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
 
 ## Table of contents
 
