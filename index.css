@@ -19,10 +19,10 @@ div {
 .card {
 	color: white;
 	background: url(images/bg-pattern-card.svg) no-repeat currentColor;
-	width: 350px;
+	max-width: 350px;
+	width: 100%;
 	border-radius: 15px;
 	box-shadow: 0px 10px 20px rgb(128, 128, 128,25%);
-	overflow: hidden;
 }
 .card-content {
 	display: flex;
@@ -35,8 +35,10 @@ div {
 .avatar {
 	border: solid 3px white;
 	border-radius: 50%;
-	width: 100px;
-	height: 100px;
+	width: 100%;
+	height: 100%;
+	max-width: 100px;
+	max-height: 100px;
 }
 .content {
 	display: flex;
@@ -68,15 +70,15 @@ div {
 	border-top:1px solid lightgrey;
 	display: flex;
 	justify-content: space-around;
+	flex-wrap: wrap;
 }
 .followers,
 .likes,
 .photos {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+	/* width: calc(100% / 3); */
 	color: black;
 	font-size: 9px;
+	text-align: center;
 }
 .number {
 	color: black;
