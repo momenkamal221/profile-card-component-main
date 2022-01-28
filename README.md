@@ -33,4 +33,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
 - I had an issue with the behavior of the background when you change the height of the viewport and it fixed now
 - the card is more responsive now
 - I changed the font so it looks like the original design now
-- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- <p style="color:blue">Make this text blue.</p>
