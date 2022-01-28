@@ -1,4 +1,4 @@
-*{ margin:0; padding:0; box-sizing:border-box; }/*I think you are not resetting the CSS. Add reset css. This should be enough*/
+*{ margin:0; padding:0; box-sizing:border-box; }
 body {
 	display:flex;
 	justify-content:center;
