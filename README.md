@@ -33,4 +33,3 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
 - I had an issue with the behavior of the background when you change the height of the viewport and it fixed now
 - the card is more responsive now
 - I changed the font so it looks like the original design now
-- <html><p color="red">momen</p></html>
