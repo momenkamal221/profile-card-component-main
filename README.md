@@ -27,7 +27,7 @@ from this point I understood how the percentages of background-position work and
 - apply using calc min and max functions.
 ## Resources
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
-## update Jan 11 2022 
+## update Jan 28 2022 
 - I really appreciate your feedback, that was so helpful and I think my code is better now
 - I used the body as a flexbox to center the card
 - I had an issue with the behavior of the background when you change the height of the viewport and it fixed now
